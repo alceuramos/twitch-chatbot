@@ -1,2 +1,2 @@
 # twitch-chatbot
-another thitch chatbot =]
+another twitch chatbot =]
